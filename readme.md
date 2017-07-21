@@ -2,6 +2,8 @@
 
 | # | Title | Source Code | Difficulty |
 | --|:-----:|:-----------:| ----------:|
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/Palindrome%20Number/palindromeNumber.js) | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](https://github.com/hizoubin/leetcode/blob/master/Solutions/Reverse%20Integer/reverse.c) | Easy |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.js) | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](https://github.com/hizoubin/leetcode/blob/master/Solutions/Add%20Two%20Numbers/addTwoNumbers.c) | Medium |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C](https://github.com/hizoubin/leetcode/blob/master/Solutions/Two%20Sum/twoSum.c) | Easy |
