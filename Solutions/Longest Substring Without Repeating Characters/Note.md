@@ -1,0 +1,1 @@
+https://discuss.leetcode.com/topic/21465/9-line-javascript-solution
