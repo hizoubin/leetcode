@@ -2,6 +2,9 @@
 
 | # | Title | Source Code | Difficulty |
 | --|:-----:|:-----------:| ----------:|
+| 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/646/solution.js) | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/discuss/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/Linked%20List%20Cycke/hasCycle.js) | Easy |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/Word%20Search/wordSearch.js) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/Roman%20to%20Integer/romanToInt.js) | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/Palindrome%20Number/palindromeNumber.js) | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](https://github.com/hizoubin/leetcode/blob/master/Solutions/Reverse%20Integer/reverse.c) | Easy |
