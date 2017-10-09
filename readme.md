@@ -5,6 +5,7 @@
 | 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/646/solution.js) | Medium |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/516/longestPalindromeSubseq.js) | Medium |
 | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/464/canIWin.js) | Medium |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/445/addTwoNumbers.js) | Medium |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/279/numSquares.js) | Medium |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/264/nthUglyNumber.js) | Medium |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [JavaScript](https://github.com/hizoubin/leetcode/blob/master/Solutions/263/isUgly.js) | Easy |
